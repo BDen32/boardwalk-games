@@ -27,11 +27,24 @@ h1, h2, h3 {
     color: var(--highlight-color)
 }
 
-/*Navigation*/
+/*Navbar*/
+#navbar {
+    background-color: var(--primary-color);
+}
+
+#navbar .logo {
+    width: 30px;
+}
+
+
+
+
+
+
+
+
 
 /*Temporary CSS structure*/
-
-
 
 /*.container,
 .row {
